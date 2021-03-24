@@ -1,0 +1,9 @@
+---
+Title: Learning to reference figures, tables and sections
+Author: Write your name
+Date: Sys.Date()
+output:
+bookdown::html_document2
+keep_md: true
+
+---
