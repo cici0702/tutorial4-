@@ -22,3 +22,7 @@ view
 master
 ```
 
+```{r}
+airline <- read_csv("airline.csv")
+```
+
