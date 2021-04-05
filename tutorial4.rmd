@@ -13,11 +13,12 @@ library(tidyverse)
 
 # introduction 
 ## now i want to test whether the branch can do different things or not
+
 ```{r}
 view
 ```
 
 ```{r}
-newbranch
+master
 ```
 
